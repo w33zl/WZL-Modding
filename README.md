@@ -1,7 +1,7 @@
 # WZL Modding
 
 ## Like the work I do?
-If you like the work I do and want to support me you can become my Patron or buy med a Ko-fi <3
+If you like the work I do and want to support me you can become my [Patron](https://www.patreon.com/wzlmodding) or buy med a [Ko-fi](https://ko-fi.com/w33zl) <3
 
 Also, I love to hear you feedback so please check out my [Facebook](https://www.facebook.com/w33zl) page as well.
 
