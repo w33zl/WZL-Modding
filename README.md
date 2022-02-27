@@ -18,7 +18,7 @@ Also, I love to hear you feedback so please check out my [Facebook](https://www.
 * GE Object Distributor
 
 ## Want to report a bug or have a great idea?
-Please check out my [project page](https://go.xilent.se/wzl-modding-projects).
+Please check out my [project page](https://go.xilent.se/wzl-modding-projects) to get more details about the my projects or post bug reports/feature requests. Here you will also find information about known issues, tips on workarounds and occationally also hotfixes.
 
 ## Old/discontinued mods and projects (archive)
 * FS19 Stockman
