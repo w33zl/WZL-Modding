@@ -1,7 +1,9 @@
 # WZL Modding
 
+Creating mods and tools for games such as Farming Simulator, Skyrim & ESO as well as miscellaneous software.
+
 ## Like the work I do?
-If you like the work I do and want to support me you can become my [Patron](https://www.patreon.com/wzlmodding) or buy med a [Ko-fi](https://ko-fi.com/w33zl) <3
+If you like the work I do and want to support me you can become my [Patron](https://www.patreon.com/wzlmodding) or buy me a [Ko-fi](https://ko-fi.com/w33zl) :heart:
 
 Also, I love to hear you feedback so please check out my [Facebook](https://www.facebook.com/w33zl) page as well.
 
